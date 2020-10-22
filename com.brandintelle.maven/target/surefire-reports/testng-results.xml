@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="111575" started-at="2020-09-17T15:36:04 IST" finished-at="2020-09-17T15:37:55 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="111575" started-at="2020-09-17T15:36:04 IST" finished-at="2020-09-17T15:37:55 IST">
+      <class name="com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="launch" is-config="true" duration-ms="19082" started-at="2020-09-17T15:36:04 IST" finished-at="2020-09-17T15:36:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="BTLapp()[pri:2, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="BTLapp" duration-ms="11355" started-at="2020-09-17T15:36:23 IST" finished-at="2020-09-17T15:36:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BTLapp -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="getResult" is-config="true" duration-ms="3017" started-at="2020-09-17T15:36:34 IST" finished-at="2020-09-17T15:36:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BTLapp status=SUCCESS method=BTLJOBS_1.BTLapp()[pri:2, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="BTLJOB()[pri:3, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="BTLJOB" duration-ms="19410" started-at="2020-09-17T15:36:37 IST" finished-at="2020-09-17T15:36:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BTLJOB -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="getResult" is-config="true" duration-ms="3001" started-at="2020-09-17T15:36:57 IST" finished-at="2020-09-17T15:37:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BTLJOB status=SUCCESS method=BTLJOBS_1.BTLJOB()[pri:3, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="BTLSUBActivity()[pri:4, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="BTLSUBActivity" duration-ms="19953" started-at="2020-09-17T15:37:00 IST" finished-at="2020-09-17T15:37:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BTLSUBActivity -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="getResult" is-config="true" duration-ms="3001" started-at="2020-09-17T15:37:20 IST" finished-at="2020-09-17T15:37:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BTLSUBActivity status=SUCCESS method=BTLJOBS_1.BTLSUBActivity()[pri:4, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="Taxcommission()[pri:5, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="Taxcommission" duration-ms="21689" started-at="2020-09-17T15:37:23 IST" finished-at="2020-09-17T15:37:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Taxcommission -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="getResult" is-config="true" duration-ms="3001" started-at="2020-09-17T15:37:44 IST" finished-at="2020-09-17T15:37:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Taxcommission status=SUCCESS method=BTLJOBS_1.Taxcommission()[pri:5, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="Review()[pri:6, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="Review" duration-ms="192" started-at="2020-09-17T15:37:47 IST" finished-at="2020-09-17T15:37:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Review -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="getResult" is-config="true" duration-ms="3001" started-at="2020-09-17T15:37:47 IST" finished-at="2020-09-17T15:37:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Review status=SUCCESS method=BTLJOBS_1.Review()[pri:6, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="savejobpopup()[pri:7, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="savejobpopup" duration-ms="199" started-at="2020-09-17T15:37:50 IST" finished-at="2020-09-17T15:37:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savejobpopup -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="getResult" is-config="true" duration-ms="3001" started-at="2020-09-17T15:37:51 IST" finished-at="2020-09-17T15:37:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=savejobpopup status=SUCCESS method=BTLJOBS_1.savejobpopup()[pri:7, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1@5cb9f472]" name="Close" is-config="true" duration-ms="1565" started-at="2020-09-17T15:37:54 IST" finished-at="2020-09-17T15:37:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- com.brandintelle.maven.com.brandintelle.maven.BTLJOBS_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
